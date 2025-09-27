@@ -1,4 +1,4 @@
-# 🤖 AI Voice Chatbot (Offline & Private)
+# 🤖 AI Voice Chatbot Chitthi (Offline & Private)
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
