@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the Repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/SinghBappi/Offline-AI-Voice-Chatbot/]
     cd your-repo-name
     ```
 
